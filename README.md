@@ -21,8 +21,8 @@ structures. As well as the H-DenseUNet on the segmentation of the tibia structur
 
 ![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/469661d9-c3a0-45d1-8109-cb2372f06b6c)
 
-![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/c4557e3a-0a0f-49c3-993b-7be684fdb241)
-
 ![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/516f6b75-d079-47ed-bac0-a4cdf73369bb)
 
 ![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/878f69b6-6914-468a-8d0a-1f30ead7aa86)
+
+![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/c4557e3a-0a0f-49c3-993b-7be684fdb241)
