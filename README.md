@@ -16,3 +16,7 @@ segmentation methods within the biomedical domain, such as the nnU-Net framework
 The experiment accuracy of the ResNet34 U-Net is 89% (DSC), and outperforms the nnU-Net framework’s 2D
 U-Net and 3D U-Net models on the segmentation of the tibia, femur, fibula and pelvis musculoskeletal
 structures. As well as the H-DenseUNet on the segmentation of the tibia structure.
+
+
+
+![image](https://github.com/asif-jc/Deep-Learning-Musculoskeletal-Automatic-Segmentation-/assets/126116359/469661d9-c3a0-45d1-8109-cb2372f06b6c)
