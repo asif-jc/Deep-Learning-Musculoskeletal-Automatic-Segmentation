@@ -1,4 +1,4 @@
-# Deep-Learning-Musculoskeletal-Automatic-Segmentation-
+# Deep-Learning-Musculoskeletal-Automatic-Segmentation
 Engineering Honours Project: Automatic Segmentation for Lower Limb Bones &amp; Muscles using Deep Learning
 
 The musculoskeletal structure of children remains a significantly underexplored domain in research, plagued by
