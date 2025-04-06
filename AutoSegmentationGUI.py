@@ -4,7 +4,7 @@ from tkinter import ttk
 import os
 import sys
 
-sys.path.append(os.path.join(os.getcwd(), 'Model Code'))
+sys.path.append(os.path.join(os.getcwd(), 'Preprocessing Medical Data Pipeline'))
 import main
 
 def create_subtitle(text):

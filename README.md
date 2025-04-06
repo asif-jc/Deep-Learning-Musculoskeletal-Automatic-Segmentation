@@ -161,5 +161,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 For questions or collaborations, please contact:
-- Asif Juzar Cheena
-- Pranav Rao
+- Asif Juzar Cheena: ache234@aucklanduni.ac.nz
+- Pranav Rao: prao582@aucklanduni.ac.nz
